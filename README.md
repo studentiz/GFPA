@@ -13,4 +13,4 @@ The python packages, datasets and user-friendly manuals of GFPA are freely avail
 pip install gfpa
 ```
 ## Datasets
-The dataset participating in "Gene function and cell surface protein association analysis based on single-cell multiomics data" can be downloaded at [GFPA data warehouse](http://101.34.64.251:8800/)
+The dataset participating in "Gene function and cell surface protein association analysis based on single-cell multiomics data" can be downloaded at [figshare](https://doi.org/10.6084/m9.figshare.21901140)
